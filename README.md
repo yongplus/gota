@@ -440,6 +440,6 @@ implied. See the License for the specific language governing
 permissions and limitations under the License.
 
 [1]: https://github.com/gonum
-[2]: https://github.com/go-gota/gota
-[3]: https://godoc.org/github.com/go-gota/gota/dataframe
-[4]: https://godoc.org/github.com/go-gota/gota/series
+[2]: https://github.com/yongplus/gota
+[3]: https://godoc.org/github.com/yongplus/gota/dataframe
+[4]: https://godoc.org/github.com/yongplus/gota/series
